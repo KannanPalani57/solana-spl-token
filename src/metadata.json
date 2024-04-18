@@ -1,6 +1,6 @@
 {
-    "name": "My Test Sol Token", 
-    "symbol": "MYST",
-    "description": "My Test Sol Toke",
+    "name": "Mitcome", 
+    "symbol": "MIT",
+    "description": "MIT Solana",
     "image": "https://raw.githubusercontent.com/KannanPalani57/solana-spl-token/main/src/mit.png"
 }
