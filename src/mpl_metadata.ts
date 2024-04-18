@@ -38,7 +38,7 @@ async function main(){
     const ourMetadata = { // TODO change those values!
         name: "My Test Sol Token", 
         symbol: "MYST",
-        uri: "https://raw.githubusercontent.com/loopcreativeandy/video-tutorial-resources/main/metadataUpdate/metadata.json",
+        uri: "https://raw.githubusercontent.com/KannanPalani57/solana-spl-token/main/src/metadata.json",
     }
     const onChainData = {
         ...ourMetadata,
